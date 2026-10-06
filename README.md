@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil Reder</h1>
 <h3 align="center">A Game Programming Student at Forsbergs Högskolan.</h3>
 
-- 🌱 I’m currently learning **Unreal, C++ and Godot**
+- 🌱 I’m currently learning **Unreal, C++, Blender and Godot**
 
 - 📫 How to reach me Email: **rederm.kamil@gmail.com**, Discord: **100yenscam**
 

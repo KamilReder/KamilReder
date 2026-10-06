@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unreal, C++, Blender and Godot**
 
-- 📫 How to reach me Email: **rederm.kamil@gmail.com**, Discord: **100yenscam**
+- 📫 How to reach me; Email: **rederm.kamil@gmail.com**, Discord: **100yenscam**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
